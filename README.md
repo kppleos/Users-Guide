@@ -1,7 +1,7 @@
 # User's Guide
 
 <p align="center">
-    <img src="https://cdn.pling.com/img/c/a/8/0/6f07dbc2585f67f0036e77b64b333f93d7a6.png" alt="logo">
+    <img src="https://cdn.pling.com/img/c/a/8/0/6f07dbc2585f67f0036e77b64b333f93d7a6.png" alt="logo" width="200"/>
 </p>
 
 ### Table of Contents
