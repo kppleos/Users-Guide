@@ -1,5 +1,9 @@
 # User's Guide
 
+<p align="center">
+    <img src="https://cdn.pling.com/img/c/a/8/0/6f07dbc2585f67f0036e77b64b333f93d7a6.png" alt="logo">
+</p>
+
 ### Table of Contents
 1. [About Kpple](#About-us)
 2. [Kpple Menu](#Whats-in-the-Kpple-menu-)
