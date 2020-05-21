@@ -6,7 +6,7 @@
 
 ### Table of Contents
 1. [About Kpple](#About-us)
-2. [Kpple Menu](#Whats-in-the-Kpple-menu-)
+2. [What's in the Kpple menu ?](#Whats-in-the-Kpple-menu-)
 
 ## About us
 
