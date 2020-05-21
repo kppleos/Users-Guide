@@ -4,11 +4,11 @@
 1. [About Kpple](#About-u)
 2. [Kpple Menu](#What's-in-the-Kpple-menu-?)
 
-# About us
+## About us
 
 In works...
 
-# What's in the Kpple menu ?
+## What's in the Kpple menu ?
 
 The Kpple menu is usually located in the top left corner of your screen. Click on it to access System Preferences as well as recently used apps, documents and other items.
 
