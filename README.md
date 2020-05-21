@@ -12,7 +12,8 @@ In works...
 
 The Kpple menu is usually located in the top left corner of your screen. Click on it to access System Preferences as well as recently used apps, documents and other items.
 
-Kpple menu item | Description - | - 
+Kpple menu item | Description 
+-- | -- 
 About this computer | View information about your computer, including your version, processor type, and amount of memory.
 System Preferences | Open System Preferences to customize and update your computer's settings. 
 App Store | Visit the App Store to find all kinds of interesting and fun apps for your computer, update apps, and more. 
