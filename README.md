@@ -16,7 +16,7 @@ Kpple was born on May 13, 2020.
 
 CEO : R. Borgniet
 
-Contact : info@gmail.com
+Contact : info.kpple@gmail.com
 
 ## What's in the Kpple menu ?
 
