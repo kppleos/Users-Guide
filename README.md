@@ -10,7 +10,13 @@
 
 ## About us
 
-In works...
+Kpple is a free organization under KDE, its goal? To create applets, themes, tools and features under Linux, allowing to get as close as possible to the Mac OSX interface, and thus make all users benefit from the beauty of the Mac OSX interface under KDE.
+
+Kpple was born on May 13, 2020.
+
+CEO : R. Borgniet
+
+Contact : info@gmail.com
 
 ## What's in the Kpple menu ?
 
