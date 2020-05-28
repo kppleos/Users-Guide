@@ -10,7 +10,7 @@
 
 ## About us
 
-Kpple is a free organization under KDE, its goal? To create applets, themes, tools and features under Linux, allowing to get as close as possible to the Mac OSX interface, and thus make all users benefit from the beauty of the Mac OSX interface under KDE.
+Kpple is a free organization under KDE, its goal ? To create applets, themes, tools and features under Linux, allowing to get as close as possible to the Mac OSX interface, and thus make all users benefit from the beauty of the Mac OSX interface under KDE.
 
 Kpple was born on May 13, 2020.
 
@@ -19,6 +19,8 @@ CEO : R. Borgniet
 Contact : info.kpple@gmail.com
 
 ## What's in the Kpple menu ?
+
+https://github.com/kppleos/org.kpple.kppleMenu
 
 The Kpple menu is usually located in the top left corner of your screen. Click on it to access System Preferences as well as recently used apps, documents and other items.
 
